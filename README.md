@@ -4,7 +4,7 @@
   <img align="center" src="https://github-readme-stats.od-c0d3r.vercel.app/api/top-langs/?username=od-c0d3r&hide=java,html&title_color=947F57&text_color=3D3D3D&icon_color=A2906E&bg_color=e8e8e8" />
 </a>
 <a href="https://github.com/od-c0d3r">
-  <img align="center" src="https://github-readme-stats.od-c0d3r.vercel.app/api?username=od-c0d3r&show_icons=true&line_height=27&count_private=true&title_color=947F57&text_color=3D3D3D&icon_color=A2906E&bg_color=e8e8e8" alt="Martin's GitHub Stats" />
+  <img align="right" src="https://github-readme-stats.od-c0d3r.vercel.app/api?username=od-c0d3r&show_icons=true&line_height=27&count_private=true&title_color=947F57&text_color=3D3D3D&icon_color=A2906E&bg_color=e8e8e8" alt="Martin's GitHub Stats" />
 </a>
 
 
