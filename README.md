@@ -1,9 +1,5 @@
 [![Header](header.svg "Header")]()
 
-### Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-#### 📈 My GitHub Stats
-
 <a href="https://github.com/od-c0d3r">
   <img align="center" src="https://github-readme-stats.od-c0d3r.vercel.app/api/top-langs/?username=od-c0d3r&hide=java,html&title_color=947F57&text_color=3D3D3D&icon_color=A2906E&bg_color=e8e8e8" />
 </a>
@@ -13,6 +9,9 @@
 
 
 
+### Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+My name is Omar Rashad, Full-time Software Dev. ROR~ReactJs Stack.
 
 #### 💼 Latest projects :
 
@@ -22,6 +21,7 @@
 
 ⚡ [Newsweek Clone](https://github.com/od-c0d3r/newsweek-clone)......... | ![](https://img.shields.io/badge/-HTML5-EA6228) ![](https://img.shields.io/badge/-CSS3-32A2D6) ![](https://img.shields.io/badge/-SASS-CF649A) ![](https://img.shields.io/badge/-Bootstrap4-563D7C)  with [@apricot12](https://github.com/apricot12) [![](https://img.shields.io/badge/LIVE-DEMO-red)](https://od-c0d3r.github.io/newsweek-clone/)
 
+⚡ More coming soon ...
 
 
 <!--
