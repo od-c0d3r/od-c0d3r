@@ -15,7 +15,6 @@ This is Omar Rashad, Full-time Learner, and future Remote Developer.
 
 ### 💼 Latest projects :
 
-[![](https://img.shields.io/badge/LIVE-DEMO-red)](https://nobbier-pencils.000webhostapp.com/)
 | <img src="https://media1.giphy.com/media/3oEjI1JmchoJMbIJYQ/giphy.gif?cid=ecf05e478utui5ftx4u2o0aqjbzllljnr7iufxnl5wa12n0q&rid=giphy.gif" width="100px"> | Technologies | Collaborating with | Link |
 | ------------- |:-------------:|:-----:|:-----:|
 | [NYtimes.com Clone](https://github.com/elisha2kyakpo1/New-york-times-Milestone) | ![](https://img.shields.io/badge/-HTML-000000) ![](https://img.shields.io/badge/-CSS-lightgray)  | [@elisha2kyakpo1](https://github.com/elisha2kyakpo1) | [![](https://img.shields.io/badge/LIVE-DEMO-red)](https://nobbier-pencils.000webhostapp.com/)  |
