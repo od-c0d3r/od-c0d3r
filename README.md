@@ -7,12 +7,6 @@
   <img align="right" src="https://github-readme-stats.od-c0d3r.vercel.app/api?username=od-c0d3r&show_icons=true&line_height=27&count_private=true&title_color=947F57&text_color=3D3D3D&icon_color=A2906E&bg_color=e8e8e8" alt="Martin's GitHub Stats" />
 </a>
 
-
-
-### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello, folks!
-
-This is Omar Rashad, Full-time Learner, and future Remote Developer.
-
 ### 💼 Latest projects :
 
 | <img src="https://media1.giphy.com/media/3oEjI1JmchoJMbIJYQ/giphy.gif?cid=ecf05e478utui5ftx4u2o0aqjbzllljnr7iufxnl5wa12n0q&rid=giphy.gif" width="100px"> | Technologies | Collaborating with | Link |
