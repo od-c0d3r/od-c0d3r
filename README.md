@@ -17,6 +17,7 @@
     }
   </style>
 </head>
+<body>
 
 [![Header](header-rspec.png "Header")]()
 
@@ -33,3 +34,4 @@
 | [Enumerable w/ RSpec](https://github.com/od-c0d3r/Enumerables-/tree/adding-tests)<br>[TicTacToe w/ RSpec](https://github.com/Rayan84/tic-tac-toe/tree/feature/adding_tests) |![](https://img.shields.io/badge/-Ruby-880D04) ![](https://img.shields.io/badge/-RSpec-E44343)|[@Rayan84](https://github.com/Rayan84)<br>[@Rayan84](https://github.com/Rayan84)| [![](https://img.shields.io/badge/LIVE-DEMO-red)](https://repl.it/@OmarRashad/Enumerables-)<br>[![](https://img.shields.io/badge/LIVE-DEMO-red)](https://repl.it/@OmarRashad/tic-tac-toe) |
 | More  | Coming |  | Soon | 
 
+</body>
