@@ -1,12 +1,6 @@
-<style>
-  #my-table{
-    width:100%;
-  }
-</style>
-
 [![Header](header-rspec.png "Header")]()
 
-<div id="my-table" style="font-family:Arial; ">
+<div align="center" style="font-family:Arial; ">
 
 ## 💼 Latest activity 
 
