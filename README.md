@@ -1,5 +1,5 @@
 <style>
-  #my-table table{
+  #my-table{
     width:100%;
   }
 </style>
