@@ -1,23 +1,22 @@
-<style>
-* {
-  box-sizing: border-box;
-}
-
-body {
-  color : gray; 
-}
-
-table {
-  width:100%;
-  font-family:Arial   ;
-}
-
-a:hover {
-  color:white;
-  text-shadow: 0 0 5px navy;
-  text-decoration:none;
-}
-</style>
+<head>
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+    body {
+      color : gray; 
+    }
+    table {
+      width:100%;
+      font-family:Arial   ;
+    }
+    a:hover {
+      color:white;
+      text-shadow: 0 0 5px navy;
+      text-decoration:none;
+    }
+  </style>
+</head>
 
 [![Header](header-rspec.png "Header")]()
 
