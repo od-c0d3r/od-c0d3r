@@ -1,14 +1,16 @@
-<head>
-  <link rel="stylesheet" href="styles.css">
-</head>
-<body>
+<style>
+  #my-table table{
+    width:100%;
+  }
+</style>
 
 [![Header](header-rspec.png "Header")]()
 
-## 💼 ↓ Latest activity  : 
+<div id="my-table" style="font-family:Arial; ">
 
+## 💼 Latest activity 
 
-|  | Technologies | Collaborating with | Link |
+| Order ↓ | Technologies | Collaborating with | Link |
 | ------------- |:-------------:|:-----:|:-----:|
 | [NYtimes.com Clone](https://github.com/elisha2kyakpo1/New-york-times-Milestone) | ![](https://img.shields.io/badge/-HTML-000000) ![](https://img.shields.io/badge/-CSS-lightgray)  | [@elisha2kyakpo1](https://github.com/elisha2kyakpo1) | [![](https://img.shields.io/badge/LIVE-DEMO-red)](https://nobbier-pencils.000webhostapp.com/)  |
 | [TNW.com Clone](https://github.com/Zappat0n/TNW-clone) | ![](https://img.shields.io/badge/-HTML5-EA6228) ![](https://img.shields.io/badge/-CSS3-32A2D6) | [@Zappat0n](https://github.com/Zappat0n) | [![](https://img.shields.io/badge/LIVE-DEMO-red)](https://zappat0n.github.io/TNW-clone/) |
@@ -18,4 +20,5 @@
 | [Enumerable w/ RSpec](https://github.com/od-c0d3r/Enumerables-/tree/adding-tests)<br>[TicTacToe w/ RSpec](https://github.com/Rayan84/tic-tac-toe/tree/feature/adding_tests) |![](https://img.shields.io/badge/-Ruby-880D04) ![](https://img.shields.io/badge/-RSpec-E44343)|[@Rayan84](https://github.com/Rayan84)<br>[@Rayan84](https://github.com/Rayan84)| [![](https://img.shields.io/badge/LIVE-DEMO-red)](https://repl.it/@OmarRashad/Enumerables-)<br>[![](https://img.shields.io/badge/LIVE-DEMO-red)](https://repl.it/@OmarRashad/tic-tac-toe) |
 | More  | Coming | So. | .on | 
 
-</body>
+</div>
+
