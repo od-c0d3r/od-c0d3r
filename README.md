@@ -1,21 +1,5 @@
 <head>
-  <style>
-    * {
-      box-sizing: border-box;
-    }
-    body {
-      color : gray; 
-    }
-    table {
-      width:100%;
-      font-family:Arial   ;
-    }
-    a:hover {
-      color:white;
-      text-shadow: 0 0 5px navy;
-      text-decoration:none;
-    }
-  </style>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 
