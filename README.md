@@ -13,6 +13,7 @@
 | Cool projects :<br>[High Mountain Bootcamp](https://github.com/od-c0d3r/highmount)  <br> [Ibn-Hayyan Data Miner](https://github.com/od-c0d3r/IbnHayyan-DataMiner)  <br> [RuboFit telegram Bot](https://github.com/od-c0d3r/RuboFitBot) | <br>![](https://img.shields.io/badge/-HTML5-EA6228) ![](https://img.shields.io/badge/-CSS3-32A2D6) ![](https://img.shields.io/badge/-SASS-CF649A) ![](https://img.shields.io/badge/-Bootstrap4-563D7C) <br>![](https://img.shields.io/badge/-Ruby-880D04) ![](https://img.shields.io/badge/-RSpec-E44343) <br>![](https://img.shields.io/badge/-Ruby-880D04) ![](https://img.shields.io/badge/API-telegram-32AFED) | Solo | <br> [Live demo](https://od-c0d3r.github.io/highmount/) <br> [Live demo](https://repl.it/@OmarRashad/Ibn-Hayyan-Data-Miner) <br> [RuboFitBot](https://telegram.me/RuboFitBot) |
 
 Fight for the honor ⚔ Our Clan in CodeWars
+
 [![](https://www.codewars.com/users/od-c0d3r/badges/micro)](https://www.codewars.com/r/cvjbdw)
 
 </div>
