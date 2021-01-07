@@ -3,8 +3,10 @@
 <div align="center" style="font-family:Arial; ">
 <br>
 
-## 🚴 Latest activity  🚴
+## 🚴 Latest activity
 <br>
+
+Join my dojo ⚔ in codewars : ![](https://www.codewars.com/users/od-c0d3r/badges/micro)
 
 | Order ↓ | Technologies | Collaborated w/ | Link |
 | ------------- |:-------------:|:-----:|:-----:|
