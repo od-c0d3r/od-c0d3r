@@ -3,7 +3,7 @@
 <div align="center" style="font-family:Arial; ">
 <br>
 
-## 🚴 Latest activity
+## 🚴 Latest activity 🚴
 
 | Order ↓ | Technologies | Collaborated w/ | Link |
 | ------------- |:-------------:|:-----:|:-----:|
