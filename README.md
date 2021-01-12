@@ -1,6 +1,6 @@
-[![Header](header-rspec.png "Header")]()
+[![Header](header-rspec.png)]()
 
-<div align="center" style="font-family:Arial; ">
+<div align="center" style="font-family:Arial;">
 <br>
 
 ## 🚴 Latest activity 🚴
