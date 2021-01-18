@@ -1,7 +1,6 @@
 [![Header](header-rspec.png)]()
 
 <div align="center" style="font-family:Arial;">
-<br>
 
 ## 🚴 Latest activity 🚴
 
