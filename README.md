@@ -1,4 +1,4 @@
-[![Header](banner.png)]()
+[![Header](banner@rails.png)]()
 
 <div align="center" style="font-family:Arial;">
 
