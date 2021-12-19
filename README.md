@@ -1,6 +1,6 @@
 [![Head](banner@rails.png)]()
 
-<div align="center" style="font-family:Arial;">
+<!-- <div align="center" style="font-family:Arial;">
 
 ## 🚴  Latest activity  🚴
 
@@ -13,4 +13,4 @@
 
 ⚔   [![](https://www.codewars.com/users/od-c0d3r/badges/micro)](https://www.codewars.com/r/cvjbdw)   ⚔
 
-</div>
+</div> -->
