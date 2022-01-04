@@ -12,7 +12,8 @@
 | Ruby On Rails : <br> - [Members Only](https://github.com/od-c0d3r/members-only) <br> - [Eventbirte Clone](https://github.com/od-c0d3r/private-events) |<br>![](https://img.shields.io/badge/-Rails-550D04) | <br>[@tanzila-abedin](https://github.com/tanzila-abedin)<br>[@tanzila-abedin](https://github.com/tanzila-abedin) | <br>[Live](https://github.com/od-c0d3r/members-only)<br>[Live](https://github.com/od-c0d3r/private-events) |
   | <b>The good ones</b> : <br>[High Mountain Bootcamp](https://github.com/od-c0d3r/highmount)  <br> [Ibn-Hayyan Data Miner](https://github.com/od-c0d3r/IbnHayyan-DataMiner)  <br> [RuboFit telegram Bot](https://github.com/od-c0d3r/RuboFitBot) <br> [RetroJoy Website](https://github.com/od-c0d3r/Retro-Joy) | <br>![](https://img.shields.io/badge/-HTML5-EA6228) ![](https://img.shields.io/badge/-CSS3-32A2D6) ![](https://img.shields.io/badge/-SASS-CF649A) ![](https://img.shields.io/badge/-Bootstrap4-563D7C) <br>![](https://img.shields.io/badge/-Ruby-880D04) ![](https://img.shields.io/badge/-RSpec-E44343) <br>![](https://img.shields.io/badge/-Ruby-880D04) ![](https://img.shields.io/badge/API-telegram-32AFED) <br>![](https://img.shields.io/badge/-Ruby-880D04) ![](https://img.shields.io/badge/-Rails-550D04)  ![](https://img.shields.io/badge/-RSpec-E44343) | Solo | <br> [Live](https://od-c0d3r.github.io/highmount/) <br> [Live](https://repl.it/@OmarRashad/Ibn-Hayyan-Data-Miner) <br> [RuboFitBot](https://telegram.me/RuboFitBot) <br> [Live](https://stunning-kings-canyon-35023.herokuapp.com/) | 
 -->
-
+Join our clan at 
+ 
 ⚔🛡️   [![](https://www.codewars.com/users/od-c0d3r/badges/small)](https://www.codewars.com/r/cvjbdw)   🛡️⚔
 
 </div> 
