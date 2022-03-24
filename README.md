@@ -16,4 +16,10 @@ Join our clan at
  
 ⚔🛡️   [![](https://www.codewars.com/users/od-c0d3r/badges/small)](https://www.codewars.com/r/cvjbdw)   🛡️⚔
 
+Helpful resources
+ 
+ [github.com/EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#rubyhttps://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#ruby
+ )
+ 
 </div> 
+
